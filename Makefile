@@ -37,6 +37,7 @@ all:
 		urls
 		png
 		crop
+		check
 
 
 urls:	$(TARGET_URL)
